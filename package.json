@@ -1,4 +1,6 @@
 {
+  "name": "angular-inview",
+  "version": "2.0.0-dev",
   "devDependencies": {
     "karma": "^0.12.24",
     "karma-chrome-launcher": "^0.1.5",
